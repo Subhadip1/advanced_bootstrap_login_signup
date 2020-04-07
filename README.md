@@ -5,3 +5,6 @@ Make a well designed Login Sign Up form with Username Validity Checker.This depl
 2. UI features
 3. Call user by Name on HomePage
 4. Session Validation and Logout
+5. Navigation bar with buttons
+
+Example Website: http://subhadip.rf.gd
